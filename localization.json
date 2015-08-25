@@ -1,0 +1,8 @@
+{
+
+  "files": {
+    "md": "articles/api-management/*.md; includes/api-management/**/*.md"
+  },
+  "locales": [ "zh-cn", "de", "fr", "ja" ],
+  "branch": "master"
+}
