@@ -2,11 +2,11 @@
   "locales": [ "zh-cn", "de" ],
   "files": {
     "md": {
-      "src": "articles/documentdb/*.md; includes/documentdb/**/*.md; articles/service-bus/*.md; includes/service-bus/**/*.md",
+      "src": "articles/hdinsight/*.md; includes/hdinsight/**/*.md; articles/service-bus/*.md; includes/service-bus/**/*.md",
       "dest": "<openloctest_full.:locale>"
     	}, 
      "image": { 
-     	"src": "articles/api-management/media/**/*.png; articles/service-bus/media/**/*.png", 
+     	"src": "articles/hdinsight/media/**/*.png; articles/service-bus/media/**/*.png", 
  	"dest": "<openloctest_full.:locale>" 
      } 
   },
