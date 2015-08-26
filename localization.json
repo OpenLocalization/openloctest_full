@@ -1,8 +1,16 @@
 {
-
+  "locales": [ "zh-cn", "de" ],
   "files": {
-    "md": "articles/api-management/*.md; includes/api-management/**/*.md"
+    "md": {
+      "src": "articles/api-management/*.md; includes/api-management/**/*.md",
+      "dest": "<openloctest_full.:locale>"
+    	}, 
+     "image": { 
+     	"src": "articles/api-management/media/**/*.png", 
+ 	"dest": "<openloctest_full.:locale>" 
+     } 
   },
-  "locales": [ "zh-cn", "de", "fr", "ja" ],
-  "branch": "master"
+  "branch": "master",
+  "quality": "human"
 }
+
