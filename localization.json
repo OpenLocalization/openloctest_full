@@ -2,11 +2,11 @@
   "locales": [ "zh-cn", "de" ],
   "files": {
     "md": {
-      "src": "articles/service-bus/*.md; includes/service-bus/**/*.md",
+      "src": "articles/api-management/*.md; includes/api-management/**/*.md; articles/service-bus/*.md; includes/service-bus/**/*.md",
       "dest": "<openloctest_full.:locale>"
     	}, 
      "image": { 
-     	"src": "articles/service-bus/media/**/*.png", 
+     	"src": "articles/api-management/media/**/*.png; articles/service-bus/media/**/*.png", 
  	"dest": "<openloctest_full.:locale>" 
      } 
   },
