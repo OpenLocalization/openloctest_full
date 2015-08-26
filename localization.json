@@ -2,7 +2,7 @@
   "locales": [ "zh-cn", "de" ],
   "files": {
     "md": {
-      "src": "articles/api-management/*.md; includes/api-management/**/*.md; articles/service-bus/*.md; includes/service-bus/**/*.md",
+      "src": "articles/documentdb/*.md; includes/documentdb/**/*.md; articles/service-bus/*.md; includes/service-bus/**/*.md",
       "dest": "<openloctest_full.:locale>"
     	}, 
      "image": { 
