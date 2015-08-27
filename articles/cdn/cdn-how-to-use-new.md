@@ -17,7 +17,7 @@
 	ms.author="mazha"/>
 
 
-# ABcdee Using CDN for Azure
+# Using CDN for Azure
 
 The Azure Content Delivery Network (CDN) offers developers a
 global solution for delivering high-bandwidth content by caching blobs
